@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **archisha13/archisha13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey There!!, I'm <a href="https://github.com/archisha13" target="_blank">Archisha Srivastava</a>!
+## Hey There!!👋, I'm <a href="https://github.com/archisha13" target="_blank">Archisha Srivastava</a>!
 
 ### About me:
 I am Computer Engineering student from Mukesh Patel School of Technology Management & Engineering,Mumbai 
@@ -49,7 +47,7 @@ I am interested in Machine Learning, Artificial Intelligence, Data Analytics and
 </a><a href="https://leetcode.com/archisha13/" target="_blank">
   <img align="left" alt="Archisha's leetcode" width="90" src="https://img.shields.io/badge/leetcode-orange.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
 </a><a href="https://www.hackerrank.com/archisha_srivas1" target="_blank">
-  <img align="left" alt="Archisha's hackerrank" width="90" src="https://img.shields.io/badge/hacker rank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img align="left" alt="Archisha's hackerrank" width="120" src="https://img.shields.io/badge/hacker rank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 ---
