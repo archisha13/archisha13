@@ -35,21 +35,21 @@ I am interested in Machine Learning, Artificial Intelligence, Data Analytics and
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" width="60" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></code>
-<code><img height="20" width="60" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></code>
-<code><img height="20" width="60" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></code>
+<code><img height="20" width="80" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></code>
+<code><img height="20" width="80" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></code>
+<code><img height="20" width="80" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></code>
 <code><img height="40" width="40" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
-<code><img height="20" width="60" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></code>
+<code><img height="20" width="80" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></code>
 
 
 ### Competitive Coding Profiles:
 <br/>
 <a href="https://www.codechef.com/users/archisha_sriv" target="_blank">
-  <img align="left" alt="Archisha's codechef" width="50" src="https://img.shields.io/badge/codechef-%231877F2.svg?&style=for-the-badge&logo=codechef&logoColor=white" />
+  <img align="left" alt="Archisha's codechef" width="90" src="https://img.shields.io/badge/codechef-%231877F2.svg?&style=for-the-badge&logo=codechef&logoColor=white" />
 </a><a href="https://leetcode.com/archisha13/" target="_blank">
-  <img align="left" alt="Archisha's leetcode" width="50" src="https://img.shields.io/badge/leetcode-orange.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img align="left" alt="Archisha's leetcode" width="90" src="https://img.shields.io/badge/leetcode-orange.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
 </a><a href="https://www.hackerrank.com/archisha_srivas1" target="_blank">
-  <img align="left" alt="Archisha's hackerrank" width="50" src="https://img.shields.io/badge/hacker rank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img align="left" alt="Archisha's hackerrank" width="90" src="https://img.shields.io/badge/hacker rank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 ---
