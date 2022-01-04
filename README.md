@@ -45,11 +45,11 @@ I am interested in Machine Learning, Artificial Intelligence, Data Analytics and
 ### Competitive Coding Profiles:
 <br/>
 <a href="https://www.codechef.com/users/archisha_sriv" target="_blank">
-  <img align="left" alt="Archisha's codechef" width="40px" src="https://img.shields.io/badge/codechef-%231877F2.svg?&style=for-the-badge&logo=codechef&logoColor=white" />
+  <img align="left" alt="Archisha's codechef" width="50" src="https://img.shields.io/badge/codechef-%231877F2.svg?&style=for-the-badge&logo=codechef&logoColor=white" />
 </a><a href="https://leetcode.com/archisha13/" target="_blank">
-  <img align="left" alt="Archisha's leetcode" width="40px" src="https://img.shields.io/badge/leetcode-orange.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img align="left" alt="Archisha's leetcode" width="50" src="https://img.shields.io/badge/leetcode-orange.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
 </a><a href="https://www.hackerrank.com/archisha_srivas1" target="_blank">
-  <img align="left" alt="Archisha's hackerrank" width="40px" src="https://img.shields.io/badge/hacker rank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img align="left" alt="Archisha's hackerrank" width="50" src="https://img.shields.io/badge/hacker rank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 ---
