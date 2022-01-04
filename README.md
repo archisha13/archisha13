@@ -21,7 +21,7 @@ I am Computer Engineering student from Mukesh Patel School of Technology Managem
 Also doing honours in Artificial Intelligence and Machine Learning.<br/>
 I am interested in Machine Learning, Artificial Intelligence, Data Analytics and Actuarial Science.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/564x/45/21/07/4521078f4e9f085f2d7cfdcb4f7e25db.jpg" width="400" height="280" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/564x/45/21/07/4521078f4e9f085f2d7cfdcb4f7e25db.jpg" width="280" height="400" />
 
 - 🌱 I’m currently learning Data Structures and Algorithms and git.
 - 💬 Ask me about Artificial Intelligence, Data Analytics and graphic designing.
@@ -33,16 +33,13 @@ I am interested in Machine Learning, Artificial Intelligence, Data Analytics and
 
 <code>  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></code>
-
-<code><img height="40" width="40" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></code>
-<code><img height="40" width="40" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
-<code><img height="40" width="40" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></code>
+<code><img height="40" width="50" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></code>
+<code><img height="40" width="50" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></code>
+<code><img height="40" width="50" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></code>
+<code><img height="40" width="50" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
+<code><img height="40" width="50" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></code>
 
 
 ### Competitive Coding Profiles:
