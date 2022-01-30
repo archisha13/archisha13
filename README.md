@@ -22,7 +22,7 @@ I am interested in Machine Learning, Artificial Intelligence, Data Analytics and
 <img align="right" alt="GIF" src="https://i.pinimg.com/564x/45/21/07/4521078f4e9f085f2d7cfdcb4f7e25db.jpg" width="370" height="400" />
 
 - 🌱 I’m currently learning Data Structures and Algorithms and git.
-- 💬 Ask me about Artificial Intelligence, Data Analytics and graphic designing.
+- 💬 Ask me about Artificial Intelligence, Data Analytics and Machine Learning
 - 😄 Pronouns: She/Her
 ---
 
