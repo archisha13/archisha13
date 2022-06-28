@@ -40,7 +40,7 @@ I am interested in Machine Learning, Artificial Intelligence, Data Analytics and
 <code><img height="20" width="100" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></code>
 
 
-### Competitive Coding Profiles:
+### Coding Profiles:
 <br/>
 </a><a href="https://leetcode.com/archisha13/" target="_blank">
   <img align="left" alt="Archisha's leetcode" width="90" src="https://img.shields.io/badge/leetcode-orange.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
