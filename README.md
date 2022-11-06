@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### About me:
 I am Computer Engineering student from Mukesh Patel School of Technology Management & Engineering,Mumbai 
 Also pursuing honours in Artificial Intelligence and Machine Learning.<br/>
-I am interested in Machine Learning, Artificial Intelligence, Data Analytics and Actuarial Science.
+I am interested in Machine Learning, Artificial Intelligence, Data Analytics and Deep Learning
 
 - 🌱 I’m currently learning Data Structures and Algorithms and git.
 - 💬 Ask me about Artificial Intelligence, Data Analytics and Machine Learning
