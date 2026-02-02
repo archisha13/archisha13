@@ -1,71 +1,54 @@
-<!--
-**archisha13/archisha13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey There!! 👋, I'm <a href="https://github.com/archisha13" target="_blank">Archisha Srivastava</a>!
 
-Here are some ideas to get you started:
+### About Me:
+I am a Master of Science student in **Actuarial Science and Management** at **Heriot-Watt University, Edinburgh**. 
+With a foundational B.Tech in **Computer Engineering (AI & ML)**, I bridge the gap between complex data-driven engineering and high-level financial strategy. I am passionate about leveraging technical skills to solve problems in Investment, Reinsurance, and Risk Management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hey There!!👋, I'm <a href="https://github.com/archisha13" target="_blank">Archisha Srivastava</a>!
+- 🔭 **Current Focus:** Pursuing my MSc and seeking Summer 2026 internships in Actuarial Science, Reinsurance, or Investment roles.
+- 🌱 **Learning:** Advanced Markov Processes, Survival Modelling, and Quantitative Finance.
+- 💬 **Ask me about:** Actuarial Pricing, Machine Learning, Credit Risk Modelling, and Debating.
+- 🏛️ **University Roles:** Current Affairs Officer for the Heriot-Watt Students' Actuarial Society & Debate Ambassador.
+- 😄 **Pronouns:** She/Her
 
-### About me:
-I am Computer Engineering student from Mukesh Patel School of Technology Management & Engineering,Mumbai 
-Also pursuing honours in Artificial Intelligence and Machine Learning.<br/>
-I am interested in Machine Learning, Artificial Intelligence, Data Analytics and Deep Learning
-
-- 🌱 I’m currently learning Data Structures and Algorithms and git.
-- 💬 Ask me about Artificial Intelligence, Data Analytics and Machine Learning
-- 😄 Pronouns: She/Her
 ---
 
-### Languages and Tools🛠:
-<br/>
+### Key Projects 🚀:
+* **AIG Actuarial Pricing Case Study:** Performed data cleaning and analysis on large datasets, identifying a significant $5.2M loss outlier and proposing strategic pricing adjustments.
+* **JPMorgan Quantitative Research:** Developed Credit Risk Models to predict probability of default, combining statistical rigor with financial theory.
+* **Data Analytics & Time Series:** Currently working on predictive modeling for financial markets.
 
-<code>  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></code>
-<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" width="100" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></code>
-<code><img height="20" width="80" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></code>
-<code><img height="20" width="100" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
-<code><img height="20" width="100" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></code>
+---
 
+### Languages and Tools 🛠:
+**Actuarial & Finance:** `Excel/VBA` | `R` | `Financial Modeling` | `Risk Theory`
 
-### Coding Profiles:
-<br/>
-</a><a href="https://leetcode.com/archisha13/" target="_blank">
-  <img align="left" alt="Archisha's leetcode" width="90" src="https://img.shields.io/badge/leetcode-orange.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
-</a><a href="https://www.hackerrank.com/archisha_srivas1" target="_blank">
-  <img align="left" alt="Archisha's hackerrank" width="120" src="https://img.shields.io/badge/hacker rank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />
+**Tech & AI:**
+`Python` | `C++` | `SQL` | `PyTorch` | `Scikit-Learn`
+
+**Visualization & Design:**
+`Tableau` | `Adobe Illustrator` | `Photoshop`
+
+---
+
+### Portfolios & Profiles:
+<a href="YOUR_KAGGLE_URL_HERE" target="_blank">
+  <img align="left" alt="Archisha's Kaggle" width="120" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+</a>
+<a href="https://github.com/archisha13?tab=repositories" target="_blank">
+  <img align="left" alt="Archisha's Projects" width="140" src="https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<br/><br/>
+
 
 ---
 
-### Connect with me🤙:
-<br/>
-<a href="https://www.linkedin.com/in/archisha-s-709179122//" target="_blank">
-  <img align="left" alt="Archisha's Linkdein" width="40px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
-</a><a href="mailto:archisha13@gmail.com" target="_blank">
+### Connect with me 🤙:
+<a href="https://www.linkedin.com/in/archishasrivastava/" target="_blank">
+  <img align="left" alt="Archisha's LinkedIn" width="40px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+</a>
+<a href="mailto:archisha.rs@gmail.com" target="_blank">
   <img align="left" alt="Archisha's Gmail" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png" />
-</a><a href="https://github.com/archisha13" target="_blank">
-  <img align="left" alt="Archisha's Github" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
-<a href="https://t.me/Archisha_Srivastava" target="_blank">
-  <img align="left" alt="Archisha's Telegram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Telegram_2019_simple_logo.svg" />
-</a>
-
-<br/>
-<br/>
-
----
-
-Last modified on: 28/06/2021
+<br/><br/>
